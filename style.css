@@ -674,6 +674,8 @@ In 404.html this class is attached to <body>.
 
 }
 
+
+/* make embedded video bigger */
 .video-wrapper {
   position: relative;
   width: 100%;
@@ -689,4 +691,4 @@ In 404.html this class is attached to <body>.
   height: 100%;
 }
 
-/* everything is one push behind????? */
+/* p { color: red !important; }  overwritting overall style for a specific thing */
